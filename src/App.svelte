@@ -121,8 +121,6 @@
 
 
 <div class="fixed top-0 left-0 h-full w-full z-50">
-  <img class="absolute right-0 top-0 mt-16 mr-16 z-50 opacity-75" width="40" src="chukotka.png" alt="chukotka">
-
   <Dialog
     bind:value={$showDialog}
     opacity={0.8}
