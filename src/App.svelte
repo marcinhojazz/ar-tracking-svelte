@@ -150,7 +150,7 @@
     wrapperClasses="items-center z-10 rounded bg-transparent p-4 text-white text-lg relative">
     <Button
       outlined
-      color="primary"
+      color="bg-red-500"
       remove="hover:bg-primary-trans"
       add="hover:bg-primary-transDark"
     >
